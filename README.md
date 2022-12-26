@@ -1,3 +1,3 @@
 # XuYangJerry-Craft
-Made by ： XuYangJerry  \n
+Made by ： XuYangJerry 
 Inherited from "Mixed Craft"  "XuYangJerry Mixed Craft"
