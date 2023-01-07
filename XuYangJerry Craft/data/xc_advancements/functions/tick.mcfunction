@@ -1,1 +1,0 @@
-function xc_advancements:is_that_tis/activation

@@ -1,2 +1,0 @@
-execute at @e[type=minecraft:fox] run advancement grant @a[distance=0.01..7] only xc_advancements:is_that_tis/fallen
-execute at @e[type=minecraft:mooshroom] run advancement grant @a[distance=0.01..7] only xc_advancements:is_that_tis/xk
