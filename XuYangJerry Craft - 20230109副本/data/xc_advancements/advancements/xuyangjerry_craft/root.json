@@ -1,0 +1,26 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/blue_ice.png",
+    "icon": {
+      "item": "minecraft:crafting_table"
+    },
+    "title": "XuYangJerry Craft",
+    "description":"感谢食用此数据包",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "get_crafting_table": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:crafting_table"
+          }
+        ]
+      }
+    }
+  }
+}

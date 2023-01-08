@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:red_mushroom"
+    },
+    "title": "这是XK吗?",
+    "description": "靠近哞菇",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "is_that_fallen": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "xc_advancements:is_that_tis/fallen"
+}
